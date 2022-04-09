@@ -8,4 +8,4 @@ Example:
 
 With Canny edge detection:
 
-![BIKE_After](Bikesgray canny T 30 LT 5 S 2 after correction.jpg)
+![BIKE_After](Bikesgray%20canny%20T%2030%20LT%205%20S%202%20after%20correction.jpg)
