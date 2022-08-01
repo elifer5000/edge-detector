@@ -1,4 +1,4 @@
-# Edge Detector
+# Edge Detector (2010)
 
 Implements basic edge detection algorithms
 
